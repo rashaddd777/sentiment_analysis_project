@@ -9,32 +9,6 @@ This project implements a comprehensive sentiment analysis model to classify IMD
 
 The project demonstrates NLP preprocessing, feature engineering, and model evaluation, supported by open-source tools like Python 3.11.1, TensorFlow, scikit-learn, NLTK, matplotlib, and textblob, run on a MacBook Air M2.
 
-## Directory Structure
-
-Sentiment_Analysis_Project/
-├── data/
-│   ├── raw/aclImdb/  # Raw IMDB dataset (excluded from Git)
-│   └── processed/    # Processed data (if generated)
-├── src/
-│   ├── notebook.ipynb              # Initial exploratory notebook
-│   ├── exploration_preprocessing.ipynb  # Data exploration and preprocessing
-│   ├── modeling.ipynb             # Logistic Regression implementation
-│   ├── advanced_analysis.ipynb    # LSTM deep learning model
-│   └── complex_operations.ipynb   # Ensemble model (RF + GB)
-├── output/
-│   └── figures/
-│       ├── confusion_matrix.png         # Logistic Regression confusion matrix
-│       ├── confusion_matrix_lstm.png    # LSTM confusion matrix
-│       └── confusion_matrix_ensemble.png  # Ensemble confusion matrix
-├── docs/
-│   ├── report.tex    # LaTeX report source
-│   ├── report.pdf    # Compiled PDF report (excluded from Git, generated in Overleaf)
-│   └── presentation.pptx  # PowerPoint presentation (excluded from Git if large)
-├── requirements.txt  # Python dependencies for reproducibility
-└── README.md         # This file
-
-
-
 ## Installation
 To set up and run this project:
 
