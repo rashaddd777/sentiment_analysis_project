@@ -7,7 +7,7 @@ This project implements a comprehensive sentiment analysis model to classify IMD
 - **Long Short-Term Memory (LSTM):** An advanced deep learning model with word embeddings, reaching 88% accuracy.
 - **Ensemble (Random Forest + Gradient Boosting):** A robust ensemble model combining TF-IDF and metadata features (review length, sentiment score), achieving 90% accuracy with 89% cross-validation.
 
-The project demonstrates NLP preprocessing, feature engineering, and model evaluation, supported by open-source tools like Python 3.11.1, TensorFlow, scikit-learn, NLTK, matplotlib, and textblob, run on a MacBook Air M2.
+The project demonstrates NLP preprocessing, feature engineering, and model evaluation, supported by open-source tools like Python 3.11.1, TensorFlow, scikit-learn, NLTK, matplotlib, and textblob.
 
 ## Installation
 To set up and run this project:
