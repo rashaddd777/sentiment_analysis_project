@@ -1,0 +1,7 @@
+tf_env/
+data/raw/aclImdb/
+docs/report.pdf
+docs/presentation.pptx
+__pycache__/
+*.pyc
+.gitignore.save
